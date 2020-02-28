@@ -1,0 +1,2 @@
+# Fhckr
+Bitcoin script 
